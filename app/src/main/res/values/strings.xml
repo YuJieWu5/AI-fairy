@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="name">旅遊精靈</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_indruct">象鼻岩:\n早期此地為軍方管制區，直到2000年代中期才開放。因為曾是瑞芳深澳漁港的海重鎮，得以保留許多蕈狀岩、蜂巢石等特殊海蝕地形。\n\n地址:\n244新北市瑞芳區\n\n電話:\n02 2960-3456</string>
+</resources>
